@@ -1,4 +1,6 @@
 public class Loops {
-
-    //adding a comment here
+    public static void main(String[] args) {
+        System.out.println("Testing for github.");
+        //adding a comment here
+    }
 }
